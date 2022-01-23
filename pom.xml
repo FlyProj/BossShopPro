@@ -92,12 +92,7 @@
             <scope>provided</scope>
         </dependency>
 
-		<!-- Used for bungee cord -->
-		<dependency>
-			<groupId>net.md-5</groupId>
-			<artifactId>bungeecord-api</artifactId>
-			<version>1.14-SNAPSHOT</version>
-		</dependency>
+	
 
 		<!-- Used for economy -->
 		<dependency>
